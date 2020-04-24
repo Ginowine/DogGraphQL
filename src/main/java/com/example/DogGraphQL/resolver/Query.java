@@ -2,6 +2,7 @@ package com.example.DogGraphQL.resolver;
 
 import com.coxautodev.graphql.tools.GraphQLQueryResolver;
 import com.example.DogGraphQL.entity.Dog;
+import com.example.DogGraphQL.exception.DogNotFoundException;
 import com.example.DogGraphQL.repository.DogRepository;
 
 import java.util.Optional;
