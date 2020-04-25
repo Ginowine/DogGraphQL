@@ -1,3 +1,4 @@
+
 type Dog {
     id: ID!
     name: String!
