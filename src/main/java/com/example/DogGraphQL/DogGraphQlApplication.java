@@ -47,7 +47,6 @@ public class DogGraphQlApplication {
 			}
 		};
 	}
-
 	@Bean
 	public Query query(DogRepository dogRepository) {
 		return new Query(dogRepository);
