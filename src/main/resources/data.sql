@@ -5,3 +5,4 @@ INSERT INTO dog (id, name, breed, origin) VALUES (4, 'Lady', 'Direwolf', 'The No
 INSERT INTO dog (id, name, breed, origin) VALUES (5, 'Sasha', 'Husky', 'Buffalo, NY');
 INSERT INTO dog (id, name, breed, origin) VALUES (6, 'Gino', 'Bull Dog', 'Texas, MS');
 INSERT INTO dog (id, name, breed, origin) VALUES (7, 'Eseosa', 'Chi wa wa', 'Ohio, CL');
+INSERT INTO dog (id, name, breed, origin) VALUES (7, 'Queen', 'German', 'New York, NY');
